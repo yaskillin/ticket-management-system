@@ -24,7 +24,7 @@ This is a full-stack ticket management system built with a React front-end, a .N
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-repo/ticket-management-system.git
+git clone https://github.com/yaskillin/ticket-management-system.git
 cd ticket-management-system
 ```
 ````
